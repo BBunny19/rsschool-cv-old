@@ -29,3 +29,8 @@ const getSentenceTone = (sentence) => {
 
 export default getSentenceTone;
 ```
+#### **Education:**
+1. I studied at the Gomel road construction College, majoring in industrial and civil engineering on a full-time basis; 
+1. in absentia( from 2019 to 2023): Belarusian State University of transport
+
+**English language level: A2**
