@@ -1,0 +1,83 @@
+.background {
+    background-image: url("https://funart.pro/uploads/posts/2020-04/1588075306_35-p-serie-foni-89.jpg");
+    min-height: 1000px;
+    max-width: 970px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    margin: auto;
+        }
+.avatar {
+    background-image: 
+    url("https://psv4.userapi.com/c856528/u52459092/docs/d2/e3e1da1a9afa/avatar.jpg?extra=BWmO3fnDi96gXkK-emYTuPdM7klAeNDjsxZcGvFi_w8To8ytLUl7HefpHoq1NAptM8Qln68imcPKc1XP8QG_9BGjW-14LMnMOoMzQa0-mYL900p2LsP4Hc6U-gWrK2Jy2ZTtvW2Qh2q9AEm-M0Vqqlc");
+    width: 250px;
+    height: 250px;
+    background-position: center;
+    border-radius: 100%;
+    position: absolute;
+    right: 57%;
+    bottom: 70%;
+    opacity: 1;
+}
+.Personalinformation {
+    position: absolute;
+    right: 40%;
+    bottom: 90%;
+}
+.info {
+    color: rgb(134, 171, 189);
+    font-size: 22px;
+    position: absolute;
+    right: 31%;
+    bottom: 73%;
+
+}
+.aboutme {
+    position: absolute;
+    right: 47.5%;
+    bottom: 64%;
+}
+.text {
+    color: rgb(134, 171, 189);
+    font-size: 22px;
+    position: absolute;
+    right: 26%;
+    bottom: 40%;
+    line-height: 29px;
+ }  
+.nameskill {
+    position: absolute;
+    right: 67%;
+    bottom: 34%;
+}
+.skills { 
+    color: rgb(134, 171, 189);
+    font-size: 22px;
+    position: absolute;
+    right: 49.5%;
+    bottom: 30%;
+    line-height: 29px;
+}
+.education {
+    position: absolute;
+    right: 64%;
+    bottom: 24%;
+}
+.nameeducation {
+    color: rgb(134, 171, 189);
+    font-size: 22px;
+    position: absolute;
+    right: 49%;
+    bottom: 0%;
+    line-height: 29px;
+}
+.primer {
+    background-color: #66656581 ;
+    color: #ffe4c4;
+    font-size: 19px;
+    position: absolute;
+    right: 25%;
+    bottom: -6%;
+}
